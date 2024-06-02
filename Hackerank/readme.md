@@ -1,7 +1,5 @@
 ## Here are some certificates that I got from hackerrank
 
-https://www.hackerrank.com/certificates/5739b087bfaf
-
 ## Basic Python Certificate
 
 https://www.hackerrank.com/certificates/5739b087bfaf
